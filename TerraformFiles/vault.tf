@@ -1,5 +1,5 @@
 provider "vault" {
-  address = "https://vault.example.com"
+  address = "https://vault.mycompany.com:8200"
   token   = var.vault_token
 }
 
